@@ -1,0 +1,63 @@
+body {
+    font-family: "Adobe Garamond Pro";
+    width: 1200px;
+
+}
+
+.tablehead{background-color: #ffffff;border: none;
+
+}
+
+.tdhead{
+    height: 200px; width: 300px;background-color: #dc291e;
+}
+
+.bhead{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+.phead{
+    text-align: center;
+    color: white;
+    padding:40px;
+}
+
+.ulhead{
+    text-align: center;
+    font-size: 14px;
+    word-spacing: 10px;
+    color:#ffffff;
+}
+
+.ulnavigation {
+    margin:0;
+    padding:0;
+}
+
+.linavigation{
+    display: inline;
+    color: white;
+    background-color: #dc291e;
+    text-align: center;
+    overflow:hidden;
+    float:left;
+}
+
+li a{
+    display:block;
+    width:304px;
+}
+
+a:link {color: white;
+
+}
+
+a:visited{
+    color: #000000;
+}
+
+a:hover{
+
+}
