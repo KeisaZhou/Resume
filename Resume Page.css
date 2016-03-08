@@ -34,13 +34,13 @@ body {
 .ulnavigation {
     margin:0;
     padding:0;
+    text-align: center;
 }
 
 .linavigation{
     display: inline;
     color: white;
     background-color: #dc291e;
-    text-align: center;
     overflow:hidden;
     float:left;
 }
@@ -48,16 +48,22 @@ body {
 li a{
     display:block;
     width:304px;
+    height: 20px;
 }
 
-a:link {color: white;
-
+a:link {
+    color: white;
 }
 
 a:visited{
-    color: #000000;
+    color: black;
 }
 
 a:hover{
+    color: white;
+}
 
+.tableEducation p{
+    font-size: 20px;
+    color: white;
 }
